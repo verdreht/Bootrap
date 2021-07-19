@@ -26,12 +26,12 @@ Download the library and place the .js and .css files in your working directory.
 
 ## Usage
 
-```
+```html
 <!--Text input-->
 <div class="input-wrapper col-9">
-                <label for="text"></label>
-                <input type="text" class="form-control" name="text" id="text" placeholder="Text eingeben" required>
-            </div>
+    <label for="text"></label>
+    <input type="text" class="form-control" name="text" id="text" placeholder="Text eingeben" required>
+</div>
 ```
 
 ## Contributing
