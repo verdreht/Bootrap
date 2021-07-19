@@ -44,6 +44,9 @@ Download the library and place the .js and .css files in your working directory.
 </div>
 ```
 
+### Other text inputs like e-mail
+Just change the type attribute and bootsrap will recognize it.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
