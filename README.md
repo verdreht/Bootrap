@@ -2,6 +2,8 @@
 
 Fresh looking styling library for Bootstrap. This extension includes better forms  and more.
 
+![Bootrap example](https://i.ibb.co/pLjx046/bootrap.png)
+
 ## Installation
 
 Download the library and place the .js and .css files in your working directory. Link the both files in your .html file. Make sure to place it after the bootstrap stylesheet and script.
