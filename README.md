@@ -2,6 +2,11 @@
 
 Fresh looking styling library for Bootstrap. This extension includes better forms  and more.
 
+## Requirements
+
++ [jQuery](https://github.com/jquery/jquery) needed
++ [Bootstrap](https://getbootstrap.com) needed
+
 ## Installation
 
 Download the library and place the .js and .css files in your working directory. Link the both files in your .html file. Make sure to place it after the bootstrap stylesheet and script.
