@@ -5,6 +5,7 @@ Fresh looking styling library for Bootstrap. This extension includes better form
 ## Requirements
 
 + [jQuery](https://github.com/jquery/jquery) needed
++ [jQuery UI](https://github.com/jquery/jquery-ui) needed
 + [Bootstrap](https://getbootstrap.com) needed
 
 ## Installation
