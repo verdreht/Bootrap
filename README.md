@@ -2,7 +2,10 @@
 
 Fresh looking styling library for Bootstrap. This extension includes better forms  and more.
 
-![Bootrap example](https://i.ibb.co/pLjx046/bootrap.png)
+## Requirements
+
++ [jQuery](https://github.com/jquery/jquery) needed
++ [Bootstrap](https://getbootstrap.com) needed
 
 ## Installation
 
@@ -78,6 +81,12 @@ Just change the type attribute and bootsrap will recognize it.
 
 ### More components
 More components will be supported soon.
+
+## Demo
+
+![Bootrap example](https://i.ibb.co/pLjx046/bootrap.png)
+
+[Click here for demo!](https://verdreht.github.io/Bootrap/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
