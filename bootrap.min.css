@@ -82,6 +82,26 @@
     border-radius: 3px;
 }
 
+.time-bar {
+    position: relative;
+    display: block;
+    background-color: #cdcdcd;
+    height: 4px;
+    width: 0;
+}
+
+#error-notification {
+    color: white;
+    background-color: #212529;
+    border-radius: 3px;
+    display: none;
+    overflow: hidden;
+}
+
+#error-notification-content {
+    padding: 15px;
+}
+
 /* On mouse-over, add a grey background color */
 .checkbox-wrapper:hover input ~ .checkmark {
     background-color: #ccc;
