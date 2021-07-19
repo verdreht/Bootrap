@@ -1,0 +1,20 @@
+.container-sm {
+    background-color: white;
+    padding: 50px;
+    height: 923px !important;
+}
+
+html, header, footer {
+    margin: 0;
+}
+
+header {
+    height: 0;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #393939;
+}
