@@ -29,7 +29,7 @@ Download the library and place the .js and .css files in your working directory.
 ### Text input
 ```html
 <!--Text input-->
-<div class="input-wrapper col-9">
+<div class="input-wrapper">
     <label for="text"></label>
     <input type="text" class="form-control" name="text" id="text" placeholder="Text eingeben" required>
 </div>
@@ -38,7 +38,7 @@ Download the library and place the .js and .css files in your working directory.
 ### Number input
 ```html
 <!--Number input-->
-<div class="input-wrapper col">
+<div class="input-wrapper">
     <label for="number"></label>
     <input type="number" class="form-control" name="text" id="number" placeholder="Nr." required>
 </div>
@@ -46,6 +46,33 @@ Download the library and place the .js and .css files in your working directory.
 
 ### Other text inputs like e-mail
 Just change the type attribute and bootsrap will recognize it.
+
+### Checkboxes
+
+```html
+<!--Checkbox input-->
+<div class="input-wrapper">
+    <label class="checkbox-wrapper">
+        Live in the moment
+        <input type="checkbox" class="form-control" checked="checked">
+        <span class="checkmark"></span>
+    </label>
+</div>
+<div class="input-wrapper">
+    <label class="checkbox-wrapper">
+        Send greetings home
+        <input type="checkbox" class="form-control">
+        <span class="checkmark"></span>
+    </label>
+</div>
+<div class="input-wrapper">
+    <label class="checkbox-wrapper">
+        Set an announcement
+        <input type="checkbox" class="form-control">
+        <span class="checkmark"></span>
+    </label>
+</div>
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
